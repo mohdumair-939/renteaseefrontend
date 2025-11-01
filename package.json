@@ -13,7 +13,6 @@
     ],
     "private": true,
     "dependencies": {
-        "@angular-devkit/build-angular": "^20.3.8",
         "@angular-material-components/file-input": "^7.0.1",
         "@angular/animations": "~13.3.0",
         "@angular/cdk": "^13.3.3",
